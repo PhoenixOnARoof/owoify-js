@@ -1,16 +1,17 @@
+# Note:
+This is a fork of https://www.npmjs.com/package/owoify-js. I made one simple change to the code for my needs. Feel free to use it if you like the change that I did.
+
 # owoify-js
 Turning my worst nightmare into a NPM package. This nifty little library helps you turn any string into nonsensical babyspeak similar to the infamous Chrome extension by LeafySweets (which has been deleted unfortunately). Three levels are available:
 - owo (default): pretty vanilla. Not much else to say about it.
 - uwu: moderately infuses the text but it gets wose and wose
 - uvu: litewawwy unweadabwal
 
-[![Build Status](https://travis-ci.org/mohan-cao/owoify-js.svg?branch=master)](https://travis-ci.org/mohan-cao/owoify-js)
-
 ## Demo
 [CodePen.io](https://codepen.io/newbeetf2/pen/yLLaNPZ)
 
 ## Installation instructions
-`npm install --save owoify-js`
+`npm install --save owoify-js-ant`
 
 ## Usage
 ```js
